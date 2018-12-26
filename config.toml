@@ -1,0 +1,4 @@
+baseURL = "http://ashishdoneriya.github.io/"
+languageCode = "en-us"
+title = "My Workbook"
+theme= "hugo-bootstrap"
