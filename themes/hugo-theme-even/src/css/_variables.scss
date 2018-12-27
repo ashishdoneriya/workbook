@@ -40,46 +40,62 @@ $dark-gray: #8a8a8a !default;
 
 // ========== Global ========== //
 // Text color of the body.
-$global-font-color: rgba(0, 0, 0, .84) !default;
+$global-font-color: #34495e !default;
 
 // Font size attribute applied to '<html>' and '<body>'.
-$global-font-size: 18px !default;
+$global-font-size: 16px !default;
 
 // Global width of '<body>'.
-$global-body-width: 1080px !default;
+$global-body-width: 800px !default;
 
 // Padding of container main
 $global-container-padding: 0 20px !default;
 
 // Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px.
-$global-lineheight: 1.8 !default;
+$global-lineheight: 1.5 !default;
 
 // Font family of the site.
-$global-font-family: 'Free Sans', 'Arial', Roboto, sans-serif !default;
+$global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
 
 // Serif font family of the site.
 $global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
 
 // Background color of the site.
-$global-background: #333 !default;
+$global-background: $white !default;
 
 // Headings font size of the site.
 $global-headings: (
-  h1: 1.6em,
-  h2: 1.5em,
-  h3: 1.3em,
-  h4: 1.2em,
-  h5: 1.1em,
-  h6: 1em
+  h1: 26px,
+  h2: 24px,
+  h3: 20px,
+  h4: 16px,
+  h5: 14px,
+  h6: 14px
 ) !default;
 
 
 // ========== Header ========== //
+// Padding of the site header.
+$header-padding: 20px 20px !default;
+
+// Font family: Chancery
+@font-face {
+  font-family: 'Chancery';
+  src: url('../fonts/chancery/apple-chancery-webfont.eot');
+  src: local('Apple Chancery'), url('../fonts/chancery/apple-chancery-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/chancery/apple-chancery-webfont.woff2') format('woff2'),
+  url('../fonts/chancery/apple-chancery-webfont.woff') format('woff'),
+  url('../fonts/chancery/apple-chancery-webfont.ttf') format('truetype'),
+  url('../fonts/chancery/apple-chancery-webfont.svg#apple-chancery') format('svg');
+  font-weight: lighter;
+  font-style: normal;
+}
+
 // Font size of the logo.
-$logo-font-size: 36px !default;
+$logo-font-size: 48px !default;
 
 // Font family of the logo.
-$logo-font-family:  'Free Sans', 'Arial', Roboto, sans-serif !default;
+$logo-font-family: 'Chancery', cursive, LiSu, sans-serif !default;
 
 // Margin of menu item.
 $menu-item-margin-left: 10px !default;
@@ -104,7 +120,7 @@ $post-padding: 1.5em 0 !default;
 $post-border: 1px solid $light-gray !default;
 
 // Font size of post title.
-$post-title-font-size: 1.8em !default;
+$post-title-font-size: 27px !default;
 
 // Font weight of post title.
 $post-title-font-weight: 400 !default;
@@ -139,7 +155,7 @@ $post-toc-width: 200px !default;
 $post-toc-backgroud: rgba($deputy-color, 0.6) !default;
 
 // Margin left of the post toc.
-//$post-toc-margin-left: $global-body-width - 15px !default;
+$post-toc-margin-left: $global-body-width - 15px !default;
 
 // Font size of the post toc title.
 $post-toc-title-size: 20px !default;
@@ -151,7 +167,7 @@ $post-toc-content: 15px !default;
 $post-toc-list-style: square !default;
 
 // Max screen media of the post toc.
-// $toc-max-sreen-width: 2 * $post-toc-width + $post-toc-margin-left !default;
+$toc-max-sreen-width: 2 * $post-toc-width + $post-toc-margin-left !default;
 
 // ========== Content ========== //
 // Headings anchor.
@@ -174,11 +190,10 @@ $content-table-border-color: darken($deputy-color, 3%) !default;
 $code-color: #c7254e !default;
 
 // Font size of code.
-$code-font-size: 0.9em !default;
+$code-font-size: 13px !default;
 
 // Font family of the code.
-$code-font-family: "Ubuntu Mono", Menlo, Consolas, "Source Code Pro", Inconsolata, Monaco, "Courier New",
- monospace !default;
+$code-font-family: Consolas, Monaco, Menlo, Consolas, monospace !default;
 
 // Color of code highlight, solarized.
 $code-highlight-color: (
@@ -192,6 +207,52 @@ $code-highlight-color: (
   formula: #eee8d5
 ) !default;
 
+// Code type list.
+$code-type-list: (
+  // Custom code type
+  language-bash: "Bash",
+  language-c: "C",
+  language-cs: "C#",
+  language-cpp: "C++",
+  language-css: "CSS",
+  language-coffeescript: "CoffeeScript",
+  language-html: "HTML",
+  language-xml: "XML",
+  language-http: "HTTP",
+  language-json: "JSON",
+  language-java: "Java",
+  language-js: "JavaScript",
+  language-javascript: "JavaScript",
+  language-makefile: "Makefile",
+  language-markdown: "Markdown",
+  language-objectivec: "Objective-C",
+  language-php: "PHP",
+  language-perl: "Perl",
+  language-python: "Python",
+  language-ruby: "Ruby",
+  language-sql: "SQL",
+  language-shell: "Shell",
+
+  language-erlang: "Erlang",
+  language-go: "Go",
+  language-go-html-template: "Go HTML Template",
+  language-groovy: "Groovy",
+  language-haskell: "Haskell",
+  language-kotlin: "Kotlin",
+  language-clojure: "Clojure",
+  language-less: "Less",
+  language-lisp: "Lisp",
+  language-lua: "Lua",
+  language-matlab: "Matlab",
+  language-rust: "Rust",
+  language-scss: "Scss",
+  language-scala: "Scala",
+  language-swift: "Swift",
+  language-typescript: "TypeScript",
+  language-yml: "YAML",
+  language-yaml: "YAML",
+  language-toml: "TOML"
+) !default;
 
 // Color of the code background.
 $code-background: $deputy-color !default;
@@ -210,10 +271,10 @@ $pagination-font-size: 20px !default;
 $footer-margin-top: 2em !default;
 
 // Margin left of the social link.
-$social-link-margin-left: 0.5em !default;
+$social-link-margin-left: 10px !default;
 
 // Font size of the social icon.
-$social-icon-font-size: 1.7em !default;
+$social-icon-font-size: 30px !default;
 
 // Margin of the copyright.
 $copyright-margin: 10px 0 !default;
@@ -233,7 +294,7 @@ $archive-name-font-size: 30px !default;
 $collection-title-font-size: 28px !default;
 
 // Padding of the archive post.
-$archive-post-padding: 15px 20px 5px 20px !default;
+$archive-post-padding: 3px 20px !default;
 
 // Padding of the archive post in mobile.
 $archive-post-mobile-padding: 5px 10px !default;
@@ -242,7 +303,7 @@ $archive-post-mobile-padding: 5px 10px !default;
 $archive-post-mobile-time-font-size: 13px !default;
 
 // Border left of the archive post, use $archive-post-hover-border-left when hover it.
-$archive-post-border: 1px solid $gray !default;
+$archive-post-border-left: 1px solid $gray !default;
 $archive-post-hover-border-left: 3px solid $theme-color !default;
 
 // Transition of the archive post when hover it.
@@ -251,27 +312,15 @@ $archive-post-hover-transition: 0.2s ease-out !default;
 // Transform of the archive post when hover it.
 $archive-post-hover-transform: translateX(4px) !default;
 
+// ========== General Terms ========== //
+// Font size of the terms title.
+$terms-title-size: 18px !default;
 
-// ========== Tags ========== //
-// Font soze of the tag cloud title.
-$tag-cloud-title-size: 24px !default;
+// Border bottom of the terms title.
+$terms-title-border-bottom: 2px solid $theme-color !default;
 
-// Border bottom of the tag cloud title.
-$tag-cloud-title-border-bottom: 2px solid $theme-color !default;
+// Margin of the terms link.
+$terms-link-margin: 5px 10px !default;
 
-// Margin of the tag cloud tags link.
-$tag-cloud-tags-link-margin: 5px 10px !default;
-
-
-// ========== Categories ========== //
-// Font soze of the categories title.
-$categories-title-size: 18px !default;
-
-// Border bottom of the categories title.
-$categories-title-border-bottom: 2px solid $theme-color !default;
-
-// Margin of the categories tags link.
-$categories-tags-link-margin: 5px 10px !default;
-
-// Font size of the category count
-$category-count-font-size: 12px !default;
+// Font size of the terms count
+$terms-count-font-size: 12px !default;
