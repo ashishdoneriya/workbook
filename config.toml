@@ -1,6 +1,6 @@
 baseURL = "https://ashishdoneriya.github.io/workbook"
 languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "en"
 title = "My Workbook"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
