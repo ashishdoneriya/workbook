@@ -12,7 +12,7 @@ script:
   # Deploy to GitHub pages
 deploy:
   provider: pages
-  repo: test
+  repo: ashishdoneriya/ashishdoneriya.github.io
   target-branch: master
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
