@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Workbook</title>
+    <link>https://ashishdoneriya.github.io/workbook/tags/</link>
+    <description>Recent content in Tags on My Workbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Dec 2018 22:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://ashishdoneriya.github.io/workbook/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock</title>
+      <link>https://ashishdoneriya.github.io/workbook/tags/stock/</link>
+      <pubDate>Thu, 27 Dec 2018 22:00:00 +0530</pubDate>
+      
+      <guid>https://ashishdoneriya.github.io/workbook/tags/stock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

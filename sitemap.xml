@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="https://ashishdoneriya.github.io/workbook/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/post/growth-stocks/</loc>
+    <lastmod>2018-12-27T22:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/post/</loc>
+    <lastmod>2018-12-27T22:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/categories/stock/</loc>
+    <lastmod>2018-12-27T22:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/tags/stock/</loc>
+    <lastmod>2018-12-27T22:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ashishdoneriya.github.io/workbook/tags/</loc>
+    <lastmod>2018-12-27T22:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
