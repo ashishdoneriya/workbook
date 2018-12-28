@@ -9,12 +9,11 @@ summary: "Volcabulary list"
 toc: false
 
 ---
-
-**sanctum**
-
+```
+sanctum
 पवित्र स्थान
-
 A tense situation developed in Sabarimala on Tuesday morning when a group of people launched a protest to prevent two women from worshipping at the sanctum
+```
 
 **Auto - Cars & Jeeps**
 
