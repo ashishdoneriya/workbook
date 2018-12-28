@@ -11,7 +11,8 @@ toc: false
 ---
 
 **Ceramics & Granite**
- * Kajaria Ceramics
+
+* Kajaria Ceramics
 
 **Auto - Cars & Jeeps**
  - Maruti Suzuki
