@@ -18,7 +18,7 @@ autoCollapseToc: true
 
 ### Learning
 
-*[Investopedia](https://www.investopedia.com/)
+* [Investopedia](https://www.investopedia.com/)
 
 ## Coding
 
