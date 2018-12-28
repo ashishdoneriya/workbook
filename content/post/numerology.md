@@ -7,7 +7,7 @@ tags: ["Astrology"]
 categories: ["Astrology"]
 summary: "A small list of growth companies"
 toc: false
-
+autoCollapseToc: true
 ---
 
 ## Number 1
