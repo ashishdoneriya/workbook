@@ -6,7 +6,7 @@ draft: false
 tags: ["Astrology"]
 categories: ["Astrology"]
 summary: "A small list of growth companies"
-toc: false
+toc: true
 autoCollapseToc: true
 ---
 
