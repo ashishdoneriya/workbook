@@ -3,8 +3,8 @@ title: "Growth Stocks"
 date: 2018-12-27T22:00:00+05:30
 lastmod: 2018-12-27T22:00:00+05:30
 draft: false
-tags: ["Stock"]
-categories: ["Stock"]
+tags: ["Finance"]
+categories: ["Finance"]
 summary: "A small list of growth companies"
 toc: false
 
