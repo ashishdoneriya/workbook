@@ -5,6 +5,7 @@ lastmod: 2018-12-27T22:00:00+05:30
 menu: "main"
 weight: 50
 toc: true
+autoCollapseToc: true
 
 ---
 
