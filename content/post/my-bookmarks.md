@@ -1,11 +1,11 @@
 ---
-title: "Numerology 1"
+title: "My Bookmarks"
 date: 2018-12-27T22:00:00+05:30
 lastmod: 2018-12-27T22:00:00+05:30
 draft: false
-tags: ["Astrology"]
-categories: ["Astrology"]
-summary: "A small list of growth companies"
+tags: ["Bookmarks"]
+categories: ["Bookmarkss"]
+summary: "A list of some useful websites"
 toc: true
 autoCollapseToc: true
 ---
