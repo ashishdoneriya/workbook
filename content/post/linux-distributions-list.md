@@ -10,7 +10,7 @@ toc: true
 autoCollapseToc: true
 ---
 
-
+* [XUbuntu](https://xubuntu.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 * [Lubuntu](https://lubuntu.net/)
 * [OpenSuse](https://www.opensuse.org/)
