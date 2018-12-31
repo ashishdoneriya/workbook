@@ -3,8 +3,8 @@ title: "My Bookmarks"
 date: 2018-12-27T22:00:00+05:30
 lastmod: 2018-12-27T22:00:00+05:30
 draft: false
-tags: ["Bookmarks"]
-categories: ["Bookmarkss"]
+tags: ["Lists"]
+categories: ["Lists"]
 summary: "A list of some useful websites"
 toc: true
 autoCollapseToc: true
