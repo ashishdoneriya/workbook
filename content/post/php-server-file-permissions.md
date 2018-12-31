@@ -1,7 +1,7 @@
 ---
 title: "Php server file permissions"
 date: 2018-12-31T21:30:00+05:30
-date: 2018-12-31T21:30:00+05:30
+lastmod: 2018-12-31T21:30:00+05:30
 draft: false
 tags: ["Web Development"]
 categories: ["Web Development"]
