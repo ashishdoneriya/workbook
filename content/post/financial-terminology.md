@@ -12,3 +12,4 @@ autoCollapseToc: true
 
 * Capital Expenditure = CFI (Cash flow from investing activities)
 * CFF (Cash Flow from financing activities) = dividend to shareholders and repayment of Debt
+* SG to capex =Sales Growth over last 10 years/proportion of CFO used as Capital Expenditure.
