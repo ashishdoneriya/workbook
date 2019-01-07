@@ -1,11 +1,11 @@
 ---
 title: "TV Series"
-date: 2019-07-01T21:30:00+05:30
-lastmod: 2019-07-01T21:30:00+05:30
+date: 2019-01-07T22:00:00+05:30
+lastmod: 2019-01-07T22:00:00+05:30
 draft: false
 tags: ["Lists"]
 categories: ["Lists"]
-summary: "My tv series list"
+summary: "A list of some good tv series"
 toc: true
 autoCollapseToc: true
 ---
@@ -19,4 +19,3 @@ autoCollapseToc: true
 * [Game of Thrones](https://www.imdb.com/title/tt0944947)
 * [Dark](https://www.imdb.com/title/tt5753856/)
 * [Castlevania](https://www.imdb.com/title/tt6517102/)
-
