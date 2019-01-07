@@ -11,7 +11,7 @@ autoCollapseToc: true
 ---
 
 * [Legion](https://www.imdb.com/title/tt5114356/)
-* [Dark Matter](https://www.imdb.com/title/tt4159076) -- cancelled
+* [Dark Matter](https://www.imdb.com/title/tt4159076)
 * [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 * [Dragon Ball Z](https://kissanime.ru/Anime/Dragon-Ball-Z-Dub)
 * [The Orville](https://www.imdb.com/title/tt5691552/)
