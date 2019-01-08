@@ -1,7 +1,7 @@
 ---
 title: "Vocabulary Part 2"
-date: 2019-01-08T22:00:00+05:30
-lastmod: 2019-01-08T22:00:00+05:30
+date: 2019-01-07T22:00:00+05:30
+lastmod: 2019-01-07T22:00:00+05:30
 draft: false
 tags: ["Vocabulary"]
 categories: ["Vocabulary"]
