@@ -3,8 +3,8 @@ title: "Asprashyata samaj ke liye kalank hai"
 date: 2019-01-11T01:40:00+05:30
 lastmod: 2019-01-11T01:40:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["Essay"]
+categories: ["Essay"]
 toc: true
 autoCollapseToc: true
 ---
