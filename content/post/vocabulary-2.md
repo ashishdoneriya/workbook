@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-*Stiff**\
+**Stiff**\
 कड़ा / कठोर\
 The center is likely to face stiff resistance in its second attempt to ensure passage of the triple talaq Bill when it comes up on Monday in the Rajya Sabha
 
