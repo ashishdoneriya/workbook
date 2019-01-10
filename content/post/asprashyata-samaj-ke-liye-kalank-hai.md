@@ -9,7 +9,7 @@ toc: true
 autoCollapseToc: true
 ---
 
-![Asprashyata samaj ke liye kalank hai](/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-1.jpg)
-![Asprashyata samaj ke liye kalank hai](/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-2.jpg)
-![Asprashyata samaj ke liye kalank hai](/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-3.jpg)
-![Asprashyata samaj ke liye kalank hai](/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-4.jpg)
+![Asprashyata samaj ke liye kalank hai](/images/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-1.jpg)
+![Asprashyata samaj ke liye kalank hai](/images/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-2.jpg)
+![Asprashyata samaj ke liye kalank hai](/images/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-3.jpg)
+![Asprashyata samaj ke liye kalank hai](/images/2019/01/11/asprashyata-kalank/Asprashyata-samaj-ke-liye-kalank-hai-4.jpg)
