@@ -40,5 +40,5 @@ Example: It was a horrendous, rapacious strategy that they had used to gain cont
 **BOLSTER (verb) : आधार, सहारा**\
 Example: He is making a bold attempt to bolster the territory's confidence.
 
-*GERMANE (adjective) : मुनासिब / उचित**\
+**GERMANE (adjective) : मुनासिब / उचित**\
 Example: He asks questions that are germane and central to the issue
