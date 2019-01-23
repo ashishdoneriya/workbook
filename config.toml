@@ -14,8 +14,8 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true 
-paginate = 10
-disqusShortname = "https-ashishdoneriya-github-io"      # disqus_shortname
+paginate = 15
+#disqusShortname = "https-ashishdoneriya-github-io"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓   
 
