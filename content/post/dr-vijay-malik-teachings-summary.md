@@ -26,7 +26,8 @@ autoCollapseToc: true
 * Dr. Vijay Malik is focused on Microcap and smal cap
 * Find companies that would survive for next 25 - 30 years
 
-## Annual Reports
+##Annual Reports
+
     * Read as much as past years reports.
     * To get idea of an industry, read annual reports of that company.
     * Section **MDA** (Management Discussion & Analysis)
