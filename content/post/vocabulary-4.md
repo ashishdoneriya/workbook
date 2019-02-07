@@ -8,7 +8,7 @@ categories: ["Vocabulary"]
 summary: "Volcabulary list"
 toc: false
 
-**---
+---
 
 **Skulk (verb)  छिपकर जाना**\
 A man was skulking around outside.\
