@@ -19,3 +19,4 @@ autoCollapseToc: true
 * [Game of Thrones](https://www.imdb.com/title/tt0944947)
 * [Dark](https://www.imdb.com/title/tt5753856/)
 * [Castlevania](https://www.imdb.com/title/tt6517102/)
+* [Star Trek: Discovery](https://www.imdb.com/title/tt5171438/)
