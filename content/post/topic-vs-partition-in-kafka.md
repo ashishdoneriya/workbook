@@ -14,3 +14,5 @@ Whereas replication factor determines how many backups you want to create for yo
 
 
 Source : [Quora](https://www.quora.com/Whats-the-difference-between-partition-number-and-replication-factor-in-Kafka)
+
+More Information : [StackOverflow](https://stackoverflow.com/questions/38024514/understanding-kafka-topics-and-partitions)
