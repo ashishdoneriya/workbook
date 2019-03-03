@@ -15,3 +15,5 @@ autoCollapseToc: true
 3. Beet root (chukandar)
 4. Apple cider venegar
 5. Nariyal paani
+6. Water
+7. Exercise
