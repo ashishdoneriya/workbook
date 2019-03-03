@@ -5,7 +5,7 @@ lastmod: 2019-03-03T18:00:00+05:30
 draft: false
 tags: ["Health"]
 categories: ["Health"]
-summary: "Things using which we can deetoxify our body"
+summary: "Things using which we can detoxify our body"
 toc: true
 autoCollapseToc: true
 ---
