@@ -55,3 +55,6 @@ Anonymous objects are the objects that are instantiated but are not stored in a 
 **What are access modifiers (specifiers)?**\
 Access modifiers are keywords that are used for data hiding in object oriented programming. In Java  - public, private, protected and default
 
+**What are abstract class?**\
+Abstract classes are created by placing abstract keyword before class name. Abstract classes are classes that contains both abstract and non abstact methods.Abstract classes/methods are generally used when a class provides some high level functionality but leaves out certain details to be implemented by derived classes. Making the class/method abstract ensures that it cannot be used on its own, but must be specialized to define the details that have been left out of the high level implementation.
+
