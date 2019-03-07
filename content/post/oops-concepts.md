@@ -23,7 +23,8 @@ autoCollapseToc: true
 A class is a collection of methods and variables. It defines the data and the behaviour of a type. It is like a blueprint or template from which objects are created. A class is declared once. A class doesn't allocated memory when it is created.
 
 **What is an object?**\
-An object is an instance of a class. An object is created many times per requirement. Object allocates memory when it is created. An object consists of :\
+An object is an instance of a class. An object is created many times per requirement. Object allocates memory when it is created. An object consists of :
+
 * State : It is represented by attributes of an object. It also reflects the properties of an object.
 * Behavior : It is represented by methods of an object. It also reflects the response of an object with other objects.
 * Identity : It gives a unique name to an object and enables one object to interact with other objects.
@@ -45,7 +46,8 @@ In encapsulation we bind code and data together in a single unit. In java we use
 * Provides data hiding
 
 **What are anonymous objects?**\
-Anonymous objects are the objects that are instantiated but are not stored in a reference variable.\
+Anonymous objects are the objects that are instantiated but are not stored in a reference variable.
+
 * They are used for immediate method calling.
 * They will be destroyed after method calling.
 * They are widely used in different libraries. For example, in AWT libraries, they are used to perform some action on capturing an event(eg a key press).
