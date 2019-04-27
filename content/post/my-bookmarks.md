@@ -39,9 +39,10 @@ autoCollapseToc: true
 * [Must see space documentaries](https://www.makeuseof.com/tag/watch-space-documentaries-universe/)
 * [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 * [Milky Way](http://djer.roe.ac.uk/vsa/vvv/iipmooviewer-2.0-beta/vvvgps5.html)
-*
 
-##Archive
+
+## Archive
+
 * [GeographyIQ](https://geographyiq.com/)
 * [Science Maps | DRAW AND SHARE MAPS](https://www.scribblemaps.com/)
 * [Preceden | Create a professional timeline in minutes](https://www.preceden.com/)
