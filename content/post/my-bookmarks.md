@@ -33,6 +33,13 @@ autoCollapseToc: true
 * [Exercism](https://exercism.io/)
 * [SitePoint](https://www.sitepoint.com/)
 
+## Geek
+* [Linux terminal server project](http://www.ltsp.org/)
+* [Webopedia - Online Tech Dictionary for IT Professions](https://www.webopedia.com/)
+* [Awesome list](https://github.com/sindresorhus/awesome)
+* [Tripplebyte - Software engineering job search](https://triplebyte.com/)
+
+
 ## Space
 
 * [Space News](https://phys.org/space-news/)
@@ -69,4 +76,7 @@ autoCollapseToc: true
 * [Homebilss | Home interior design](https://www.homebliss.in/)
 * [Daily Dump | How to manage waster](https://dailydump.org/)
 * [Trriango | Rent farm equipments](https://www.trringo.com/)
+
+## Persons
+* [Imam Tawhidi](https://www.google.co.in/search?q=Imam+Tawhidi)
 
