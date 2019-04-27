@@ -55,3 +55,18 @@ autoCollapseToc: true
 * [Reveal.js | Html Presentation Framework](https://revealjs.com/)
 * [Supercook |  Receipe search by ingredients you have at home] (https://www.supercook.com)
 
+## Other
+
+* [Pipl | People Search](https://pipl.com/)
+* [Free Hindi Books](https://pdfbooks.ourhindi.com/)
+* [Consumer Forum India](https://consumerhelpline.gov.in/)
+
+## Cloud
+* [pCloud](http://pcloud.com/)
+* [Multicloud | Manage multiple cloud storage accouts](https://www.multcloud.com/)
+
+## Household
+* [Homebilss | Home interior design](https://www.homebliss.in/)
+* [Daily Dump | How to manage waster](https://dailydump.org/)
+* [Trriango | Rent farm equipments](https://www.trringo.com/)
+
