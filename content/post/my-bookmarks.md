@@ -11,9 +11,6 @@ autoCollapseToc: true
 ---
 
 ## Finance
-
-### Tool
-
 * [Screener](https://www.screener.in/)
 * [Money Control](https://www.moneycontrol.com)
 
@@ -79,4 +76,14 @@ autoCollapseToc: true
 
 ## Persons
 * [Imam Tawhidi](https://www.google.co.in/search?q=Imam+Tawhidi)
+
+## Information
+* [Best books for preparing mppsc](https://www.quora.com/What-are-the-best-books-for-preparing-for-the-MPPSC-prelims-exam)
+
+## SEO
+* [LSI Keywords](https://lsigraph.com/)
+
+## Timepass
+* [Goole quick draw](https://quickdraw.withgoogle.com/)
+
 
