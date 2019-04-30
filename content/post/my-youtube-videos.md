@@ -16,7 +16,7 @@ autoCollapseToc: true
 *[Sia - Cheap Thrills ft. Sean Paul](https://www.youtube.com/watch?v=nYh-n7EOtMA)
 * [OneRepublic - Counting Stars](https://www.youtube.com/watch?v=hT_nvWreIhg)
 * [John Legend - All of Me](https://www.youtube.com/watch?v=450p7goxZqg)
-* [A thousand years - Chirstina Perri](https://www.youtube.com/watch?v=RdXz7ZhNjYU)
+* [A thousand years - Chirstina Perri](https://www.youtube.com/watch?v=rtOvBOTyX00)
 
 ## Spiritual
 * [The Tree of Life - Gaur Gopal Prabhu](https://www.youtube.com/watch?v=ViowcwfiWMU)
