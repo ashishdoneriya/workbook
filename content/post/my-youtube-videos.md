@@ -23,3 +23,6 @@ autoCollapseToc: true
 * [आत्महत्या क्यों नहीं करना चाहिए ( महाभारत )](https://www.youtube.com/watch?v=d1GAAYdupLA)
 * [Can devotee couples avoid having kids to avoid distraction in bhakti](https://www.youtube.com/watch?v=CesQQlRrXhk)
 
+
+## Maths
+* [ एक ट्रिक्स में पूरा पहाड़ा ख़त्म ,TABLE TRICKS](https://www.youtube.com/watch?v=moqszfWt6iY)
