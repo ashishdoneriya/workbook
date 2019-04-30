@@ -103,3 +103,14 @@ autoCollapseToc: true
 * [http://www.radhanathswami.us/page/jokes-1]
 * [Krishna Path](http://www.krishnapath.org/)
 
+## Tech News Info & Tutorial
+* [Medium](https://medium.com/)
+* [OpenSource for U](https://opensourceforu.com/)
+* [DZone BigData](https://dzone.com/big-data-analytics-tutorials-tools-news)
+
+## Tech Problems
+
+### VSCode
+* [Show error "Cannot find module" although I have typings folder](https://github.com/Microsoft/vscode/issues/1915)
+
+
