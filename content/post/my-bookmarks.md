@@ -82,8 +82,19 @@ autoCollapseToc: true
 
 ## SEO
 * [LSI Keywords](https://lsigraph.com/)
+* [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/ideas/new)
 
 ## Timepass
 * [Goole quick draw](https://quickdraw.withgoogle.com/)
 
+## Study
+* [DIctionary](https://www.merriam-webster.com/)
+
+## Profession
+* [Resume Builder](https://standardresume.co/)
+* [Interview Bit - Codign Interview Questions](https://www.interviewbit.com/)
+
+## Quora
+* [What are some facts about India that Indians are generally unaware of](https://www.quora.com/What-are-some-facts-about-India-that-Indians-are-generally-unaware-of-1)
+* [What are some of the best rare natural phenomena that occur on Earth](https://www.quora.com/What-are-some-of-the-best-rare-natural-phenomena-that-occur-on-Earth)
 
