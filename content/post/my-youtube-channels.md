@@ -30,6 +30,7 @@ autoCollapseToc: true
 * [Deepak Rawat IAS](https://www.youtube.com/channel/UCbITxPeRu8fNRmIvLQFgHEw)
 * [Dubbed Films Planet 2019](https://www.youtube.com/channel/UCzXMIsqPr2UvJvCXlKLiZog)
 * [ESG-glass](https://www.youtube.com/channel/UC2auNxGKskOKimo0oAKQ4EA)
+* [Fin Baba](https://www.youtube.com/channel/UCcc5erlcGkmXM4Mlk7DgeBQ)
 * [FinnovationZ.com](https://www.youtube.com/channel/UCUMccND2H_CVS0dMZKCPCXA)
 * [Fit Tuber](https://www.youtube.com/channel/UCYC6Vcczj8v-Y5OgpEJTFBw)
 * [Flicks And The City](https://www.youtube.com/channel/UCS5C4dC1Vc3EzgeDO-Wu3Mg)
