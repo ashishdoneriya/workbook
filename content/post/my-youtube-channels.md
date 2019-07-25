@@ -14,6 +14,7 @@ autoCollapseToc: true
 * [Asset Yogi](https://www.youtube.com/channel/UCsNxHPbaCWL1tKw2hxGQD6g)
 * [BapaoGiri](https://www.youtube.com/channel/UCFagoh59UhkQt6Q_xF-MSzg)
 * [Bheeshm International](https://www.youtube.com/channel/UCa8tNZ1rMwbsxVgU0FvbPQw)
+* [BigData 101](https://www.youtube.com/user/Bigdataoss101)
 * [Big Marvel](https://www.youtube.com/channel/UCgI8VzlDGsHCp0-9Een1eKw)
 * [Bollywood Sins](https://www.youtube.com/channel/UC2Eegs0TkCr-DWcztKO5AIw)
 * [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
