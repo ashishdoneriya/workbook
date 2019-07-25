@@ -66,6 +66,7 @@ autoCollapseToc: true
 * [SidTalk](https://www.youtube.com/channel/UCfgZg9Vl5AwedH14BYgLXTQ)
 * [Slazo](https://www.youtube.com/channel/UC5zUt-9qSFHF8if6TQBq6CA)
 * [Squirrel Monkey](https://www.youtube.com/user/SquirrelMonkeyCom)
+* [Study IQ education](https://www.youtube.com/channel/UCrC8mOqJQpoB7NuIMKIS6rQ)
 * [Tech Burner](https://www.youtube.com/channel/UCXUJJNoP1QupwsYIWFXmsZg)
 * [Telusko - CSE](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
 * [The Science Elf](https://www.youtube.com/channel/UCCrnCItH17W-64FDzjwOi5w)
