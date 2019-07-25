@@ -65,6 +65,7 @@ autoCollapseToc: true
 * [Self Sufficient Me](https://www.youtube.com/channel/UCJZTjBlrnDHYmf0F-eYXA3Q)
 * [SidTalk](https://www.youtube.com/channel/UCfgZg9Vl5AwedH14BYgLXTQ)
 * [Slazo](https://www.youtube.com/channel/UC5zUt-9qSFHF8if6TQBq6CA)
+* [Squirrel Monkey](https://www.youtube.com/user/SquirrelMonkeyCom)
 * [Tech Burner](https://www.youtube.com/channel/UCXUJJNoP1QupwsYIWFXmsZg)
 * [Telusko - CSE](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
 * [The Science Elf](https://www.youtube.com/channel/UCCrnCItH17W-64FDzjwOi5w)
