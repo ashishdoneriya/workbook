@@ -1,15 +1,18 @@
-# Install the apt prerequisites
-addons:
-  apt:
-    packages:
-      - python-pygments
-# Clean and don't fail
-install:
-  - rm -rf public || exit 0
-# Build the website
-script:
-  - binaries/hugo
-  # Deploy to GitHub pages
+language: ruby
+
+install: gem install jekyll
+script: scripts/build.sh
+
+# branch whitelist
+branches:
+  only:
+  - master
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+before_install:
+  - chmod +x scripts/build.sh
+  
 deploy:
   provider: pages
   repo: ashishdoneriya/ashishdoneriya.github.io
