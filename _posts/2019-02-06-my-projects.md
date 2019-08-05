@@ -3,8 +3,8 @@ title: "My Projects"
 date: 2019-02-06T02:07:00+05:30
 lastmod: 2019-02-06T02:07:00+05:30
 draft: false
-tags: ["Lists"]
-categories: ["Lists"]
+tags: ["lists"]
+categories: ["lists"]
 summary: "My Projects that I'm working on or will work on in the future"
 toc: true
 autoCollapseToc: true

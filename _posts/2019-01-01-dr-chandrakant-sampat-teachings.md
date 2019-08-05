@@ -3,8 +3,8 @@ title: "Dr. Chandrakant Sampat Teachings"
 date: 2019-01-01T19:50:00+05:30
 lastmod: 2019-01-01T19:50:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Teachings of Dr. Chandrakant Sampat based on an interview"
 toc: true
 autoCollapseToc: true

@@ -3,8 +3,8 @@ title: "Wordpress Themes"
 date: 2019-01-01T02:17:00+05:30
 lastmod: 2019-01-01T02:17:00+05:30
 draft: false
-tags: ["Lists"]
-categories: ["Lists"]
+tags: ["lists"]
+categories: ["lists"]
 summary: "Wordpress themes that I found interesting"
 toc: true
 autoCollapseToc: true

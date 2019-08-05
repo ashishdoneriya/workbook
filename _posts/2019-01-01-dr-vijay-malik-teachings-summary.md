@@ -3,8 +3,8 @@ title: "Dr. Viay Malik Teachings"
 date: 2019-01-01T19:50:00+05:30
 lastmod: 2019-01-01T19:50:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Teachings of Dr. Vijay Malik based on his eBook Peaceful Investing: A Simple Guide to hassle free stock investing"
 toc: true
 autoCollapseToc: true

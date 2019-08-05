@@ -3,8 +3,8 @@ title: "Body Detoxification"
 date: 2019-03-03T18:00:00+05:30
 lastmod: 2019-03-03T18:00:00+05:30
 draft: false
-tags: ["Health"]
-categories: ["Health"]
+tags: ["health"]
+categories: ["health"]
 summary: "Things using which we can detoxify our body"
 toc: true
 autoCollapseToc: true

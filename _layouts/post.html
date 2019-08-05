@@ -9,7 +9,7 @@ layout : default
 			<div class="article-meta">
 				<div class="categories-list" style="margin-top:20px !important;text">
 					<div style="display:flex;align-items:center;">
-					{{page.date | | date: "%B %-d, %Y"}} | {{page.author}} | <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z" fill="#7e7e7e"/></svg>
+					{{page.date | | date: "%B %-d, %Y"}}&nbsp;&nbsp;|&nbsp;&nbsp;{{page.author}}&nbsp;&nbsp;|&nbsp;&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z" fill="#7e7e7e"/></svg>
 					 {% for category in page.categories %}
 					<a class="post-category-labels" href="{{site.baseurl}}/topics/{{category}}/">{{category}}</a>
 					{% endfor %}

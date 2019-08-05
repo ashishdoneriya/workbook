@@ -3,8 +3,8 @@ title: "Vocabulary Part 2"
 date: 2019-01-07T22:00:00+05:30
 lastmod: 2019-01-07T22:00:00+05:30
 draft: false
-tags: ["Vocabulary"]
-categories: ["Vocabulary"]
+tags: ["vocabulary"]
+categories: ["vocabulary"]
 summary: "Volcabulary list"
 toc: false
 

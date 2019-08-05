@@ -3,8 +3,8 @@ title: "Android Apps"
 date: 2019-01-01T01:43:00+05:30
 lastmod: 2019-01-01T01:43:00+05:30
 draft: false
-tags: ["Lists"]
-categories: ["Lists"]
+tags: [lists"]
+categories: ["lists"]
 summary: "Android Apps that I found interesting"
 toc: true
 autoCollapseToc: true

@@ -3,8 +3,8 @@ title: "Numerology"
 date: 2018-12-27T22:00:00+05:30
 lastmod: 2018-12-27T22:00:00+05:30
 draft: false
-tags: ["Astrology"]
-categories: ["Astrology"]
+tags: ["astrology"]
+categories: ["astrology"]
 summary: "A small list of growth companies"
 toc: true
 autoCollapseToc: true

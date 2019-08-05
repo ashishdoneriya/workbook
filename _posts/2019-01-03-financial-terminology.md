@@ -3,8 +3,8 @@ title: "Financial Terminology"
 date: 2019-01-03T02:40:00+05:30
 lastmod: 2019-01-11T02:40:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Some basic financial terms and their meanings"
 toc: true
 autoCollapseToc: true

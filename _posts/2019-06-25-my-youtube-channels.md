@@ -3,8 +3,8 @@ title: "My Youtube Channels"
 date: 2019-06-25T22:00:00+05:30
 lastmod: 2019-06-25T22:00:00+05:30
 draft: false
-tags: ["Lists"]
-categories: ["Lists"]
+tags: ["lists"]
+categories: ["lists"]
 summary: "A list of youtube channels"
 toc: true
 autoCollapseToc: true

@@ -3,8 +3,8 @@ title: "Mutual Funds Info"
 date: 2019-01-10T18:00:00+05:30
 lastmod: 2019-01-10T18:00:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Some information related to mutual funds"
 toc: true
 autoCollapseToc: true

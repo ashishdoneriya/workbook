@@ -3,8 +3,8 @@ title: "Things you should do just after starting your job"
 date: 2019-01-01T00:54:00+05:30
 lastmod: 2019-01-01T00:54:00+05:30
 draft: false
-tags: ["Finance"]
-categories: ["Finance"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Things that you should do as soon as you start earning"
 toc: false
 

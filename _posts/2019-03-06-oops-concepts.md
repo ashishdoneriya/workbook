@@ -3,8 +3,8 @@ title: "Oops Concepts"
 date: 2019-03-06T03:17:00+05:30
 lastmod: 2019-03-06T03:17:00+05:30
 draft: false
-tags: ["Java"]
-categories: ["Java"]
+tags: ["java"]
+categories: ["java"]
 toc: true
 autoCollapseToc: true
 ---

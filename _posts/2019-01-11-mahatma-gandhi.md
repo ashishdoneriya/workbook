@@ -3,8 +3,8 @@ title: "Mahatma Gandhi"
 date: 2019-01-11T01:59:00+05:30
 lastmod: 2019-01-11T01:59:00+05:30
 draft: false
-tags: ["Essay"]
-categories: ["Essay"]
+tags: ["essay"]
+categories: ["essay"]
 toc: true
 autoCollapseToc: true
 ---
