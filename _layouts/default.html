@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <base href="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/img/logo/ms-icon-144x144.png">
+    <meta name="theme-color" content="#143d52">
+    <meta name="msapplication-navbutton-color" content="#143d52">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#143d52">
+    {% feed_meta %}
+    {% seo %}
+    <link href="{{ '/assets/theme/css/fonts.css' | prepend: site.baseurl }}"  rel='stylesheet' type='text/css'>
+    <link href="{{ '/assets/theme/css/style.css' | prepend: site.baseurl }}"  rel='stylesheet' type='text/css'>
+    </head>
+  <body>
+   
+    <header class="masthead clearfix">
+      <div class="masthead-content">
+        <div class="logo">
+          <a href="{{site.baseurl}}/">Cse Tutorials
+          </a>
+        </div>
+        <nav class="site-nav">
+        {% for category in site.categories %}
+          <a href="{{site.baseurl}}/topics/{{category[0]}}/">{{category[0]}}</a>
+         {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <div class="main">
+	{{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
+    </div>
+    <footer class="site-footer">
+      <ul class="footer-nav">
+		{% for my_page in site.pages %} {% if my_page.title %}
+		<li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+		{% endif %} {% endfor %}
+      </ul>
+      <p>
+        <a href="https://twitter.com/paulswail" target="_blank" rel="noopener"><i class="fab fa-twitter fa-fw"></i> Twitter</a>
+        <a href="https://www.linkedin.com/company/winterwindsoftware" target="_blank" rel="noopener"><i class="fab fa-linkedin fa-fw"></i> LinkedIn</a>
+        <a href="https://github.com/WinterWindSoftware" target="_blank" rel="noopener"><i class="fab fa-github fa-fw"></i> GitHub</a>
+        <a href="/feed.xml" target="_blank" rel="noopener"><i class="fa fa-rss fa-fw"></i> RSS</a>
+      </p>
+      <span class="line">
+        © Copyright notice.
+      </span>
+    </footer>
+    <script type="text/javascript"></script>
+  
+</body></html>
