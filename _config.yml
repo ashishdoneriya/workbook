@@ -1,6 +1,6 @@
 name: "My Workbook"
 description : "This website contains my notes"
-baseurl : "https://ashishdoneriya.github.io"
+baseurl : ""
 
 defaults:
   - scope:
