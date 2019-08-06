@@ -3,7 +3,7 @@ title: "My Youtube videos"
 date: 2019-04-27T22:00:00+05:30
 lastmod: 2019-04-27T22:00:00+05:30
 draft: false
-tags: ["lists"]
+tags: ["youtube"]
 categories: ["lists"]
 summary: "A list of youtube videos"
 toc: true

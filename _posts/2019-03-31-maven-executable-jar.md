@@ -3,7 +3,7 @@ title: "How to create executable jar in maven"
 date: 2019-03-31T03:17:00+05:30
 date: 2019-03-31T03:17:00+05:30
 draft: false
-tags: ["java"]
+tags: ["java", "maven"]
 categories: ["java"]
 toc: false
 autoCollapseToc: false

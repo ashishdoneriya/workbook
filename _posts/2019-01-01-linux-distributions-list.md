@@ -3,7 +3,7 @@ title: "Linux Distributions"
 date: 2019-01-01T01:35:00+05:30
 lastmod: 2019-01-01T01:35:00+05:30
 draft: false
-tags: ["lists"]
+tags: ["linux"]
 categories: ["lists"]
 summary: "A list of some popular linux distributions"
 toc: true

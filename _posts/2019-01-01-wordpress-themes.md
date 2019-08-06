@@ -3,7 +3,7 @@ title: "Wordpress Themes"
 date: 2019-01-01T02:17:00+05:30
 lastmod: 2019-01-01T02:17:00+05:30
 draft: false
-tags: ["lists"]
+tags: ["wordpress"]
 categories: ["lists"]
 summary: "Wordpress themes that I found interesting"
 toc: true
