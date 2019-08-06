@@ -3,8 +3,8 @@ title: "What is the difference between Topic and Partition in Apache Kafka"
 date: 2019-02-21T01:43:00+05:30
 lastmod: 2019-02-21T01:43:00+05:30
 draft: false
-tags: ["Big Data"]
-categories: ["Big Data"]
+tags: ["kafka"]
+categories: ["big-data"]
 toc: true
 autoCollapseToc: true
 ---
