@@ -38,9 +38,9 @@ pre {
 	max-height:500px;
 }
 .post-category-labels {
-	padding: 0.2rem 0.5rem;
+	/*padding: 0.2rem 0.5rem;
 	border-radius: 0.4rem;
-	background-color: #f3f3f3;
+	background-color: #f3f3f3;*/
 	text-transform:uppercase;
 }
 .article-meta a, .article-meta a:hover, .article-meta a:active, .article-meta a:visited,   .article-meta a:link {
