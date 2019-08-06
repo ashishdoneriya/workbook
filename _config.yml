@@ -1,6 +1,18 @@
-name: "My Workbook"
+title: "My Workbook"
 description : "This website contains my notes"
 baseurl : ""
+url: "https://csetutorials.com"
+author: "Ashish Doneriya"
+
+twitter: 
+  username: ashishdoneriya
+  
+social:
+  name: Ashish Doneriya
+  links:
+    - https://twitter.com/ashishdoneriya
+    - https://www.instagram/ashishdoneriya
+    - https://www.facebook.com/ashishdoneriya
 
 defaults:
   - scope:
