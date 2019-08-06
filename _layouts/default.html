@@ -26,7 +26,7 @@
         </div>
         <nav class="site-nav">
         {% for category in site.categories %}
-          <a href="{{site.baseurl}}/topics/{{category[0]}}/" rel="noindex nofollow">{{category[0]}}</a>
+          <a href="{{site.baseurl}}/topics/{{category[0]}}/" rel="noindex nofollow">{{category[0] | replace: "-", " "}}</a>
          {% endfor %}
         </nav>
       </div>
