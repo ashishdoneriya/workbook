@@ -30,7 +30,7 @@
       </div>
     </header>
     <div class="main">
-	{{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
+	{{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' | replace: '<table>', '<table class="my-table my-table-striped">' }}
     </div>
     <footer class="site-footer">
       <ul class="footer-nav">

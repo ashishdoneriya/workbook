@@ -50,6 +50,67 @@ pre {
 	color:rgba(0, 0, 0, 0.5);
 }
 
+.my-table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	empty-cells: show;
+	border: 1px solid #cbcbcb
+}
+
+.my-table caption {
+	color: #000;
+	font: italic 85%/1 arial, sans-serif;
+	padding: 1em 0;
+	text-align: center
+}
+
+.my-table td,
+.my-table th {
+	border-left: 1px solid #cbcbcb;
+	border-width: 0 0 0 1px;
+	font-size: inherit;
+	margin: 0;
+	overflow: visible;
+	padding: .5em 1em
+}
+
+.my-table thead {
+	background-color: #e0e0e0;
+	color: #000;
+	text-align: left;
+	vertical-align: bottom
+}
+
+.my-table td {
+	background-color: transparent
+}
+
+.my-table-odd td {
+	background-color: #f2f2f2
+}
+
+.my-table-striped tr:nth-child(2n-1) td {
+	background-color: #f2f2f2
+}
+
+.my-table-bordered td {
+	border-bottom: 1px solid #cbcbcb
+}
+
+.my-table-bordered tbody>tr:last-child>td {
+	border-bottom-width: 0
+}
+
+.my-table-horizontal td,
+.my-table-horizontal th {
+	border-width: 0 0 1px 0;
+	border-bottom: 1px solid #cbcbcb
+}
+
+.my-table-horizontal tbody>tr:last-child>td {
+	border-bottom-width: 0
+}
+
 .highlight .hll { background-color: #404040 }
 .highlight  { background: #202020; color: #d0d0d0 }
 .highlight .c { color: #999999; font-style: italic } /* Comment */

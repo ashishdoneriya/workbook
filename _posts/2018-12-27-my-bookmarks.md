@@ -13,9 +13,6 @@ autoCollapseToc: true
 ## Finance
 * [Screener](https://www.screener.in/)
 * [Money Control](https://www.moneycontrol.com)
-
-### Learning
-
 * [Investopedia](https://www.investopedia.com/)
 
 ## Coding
