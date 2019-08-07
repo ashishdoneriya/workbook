@@ -29,8 +29,12 @@ summary: "Snippet code to create an executable jar in maven"
         </configuration>
         <executions>
           <execution>
-            <id>make-assembly</id> <!-- this is used for inheritance merges -->
-            <phase>package</phase> <!-- bind to the packaging phase -->
+          
+			<!-- this is used for inheritance merges -->
+            <id>make-assembly</id>
+            
+            <!-- bind to the packaging phase --> 
+            <phase>package</phase>
             <goals>
               <goal>single</goal>
             </goals>
