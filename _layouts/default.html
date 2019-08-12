@@ -12,7 +12,7 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="#143d52">
 		{% feed_meta %}
 		{% seo %}
-	
+		{% if page.isTopicPage %} <meta name="robots" content="noindex" /> {% endif %}
 	
 	<link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAAAdUlEQVR4Ae3MIRJAUBCH8e81R3AO53AmvIQmu5MzqE8iKoZAEdZYZhT7/cuGnR9/yeEJrDcW8DjEKlbFasQmFTQitj+cK2TqO8ggg2LceygiZ6YjeQel9Me10NI8ghR7DhlkkEFBxQTEShVUcVHGcAsZ8PylDecfc51kCzSlAAAAAElFTkSuQmCC" type="image/x-icon">
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
