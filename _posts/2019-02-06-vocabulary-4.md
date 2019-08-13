@@ -19,7 +19,7 @@ A criminal tried to skulk around the neighborhood without being noticed.
 **Regnant (adjective)  प्रबल होनेवाला**  
 After all, a queen regnant sits on the throne and the monarchy must be feeling pressure from its seemingly more progressive neighbors.
 
-**Distrate (adjective) बेपरवाह**  
+**Distrate (adjective) विचलित**  
 He grew more and more distrait as hours passed without confirmation that there were survivors of the plane crash.
 
 **Reposte (noun) जवाबी प्रहार**  
