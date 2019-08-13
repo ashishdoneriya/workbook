@@ -10,36 +10,56 @@ autoCollapseToc: false
 summary: "Some Important hive syntax"
 ---
 
-```sql
-analyze table tableName partition(partitionName) compute statistics noscan;
-```
+## Partitions
 
-```sql
-set hive.mapred.mode=nonstrict;
-```
-
-```sql
-set hive.enforce.bucketing=true;
-```
+First set these properties
 
 ```sql
 SET hive.exec.dynamic.partition = true;
 SET hive.exec.dynamic.partition.mode = nonstrict;
 ```
 
-### Inserting data to partitioned table
+### How to create partitioned table
+```sql
+create table c1_part (id int, name string, email string) partitioned by (countrycode string);
+```
+
+### How to insert data into partitioned table
+```sql
+insert into table c1_part partition(countrycode) select c1.id, c1.name, c1.email, c1.countrycode from c1;
+```
+
+### How to analyze paritioned tables
+```sql
+analyze table tableName partition(partitionName) compute statistics noscan;
+```
+
+
+## Bucketing
 
 ```sql
-insert into table c1_part_buck partition(countrycode) select c1.id, c1.name, c1.email, c1.countrycode from c1;
+set hive.mapred.mode=nonstrict;
+set hive.enforce.bucketing=true;
 ```
 
 ```sql
+create table c1_buck (id int, name string, email string, countrycode string) clustered by (id) into 10 buckets;
+```
+
+### How to insert data into bucketed table
+```sql
+insert overwrite into table c1_buck select c1.id, c1.name, c1.email, c1.countrycode from c1;
+```
+
+## Both Partitioning and Bucketing
+
+```sql
+SET hive.exec.dynamic.partition = true;
+SET hive.exec.dynamic.partition.mode = nonstrict;
+set hive.mapred.mode=nonstrict;
+set hive.enforce.bucketing=true;
 create table c1_part_buck (id int, name string, email string) partitioned by (countrycode string) clustered by (id) into 10 buckets;
-```
-
-### Inserting data to bucketed table
-```sql
-insert overwrite into table c1_part_buck partition(countrycode) select c1.id, c1.name, c1.email, c1.countrycode from c1;
+insert into table c1_part_buck partition(countrycode) select c1.id, c1.name, c1.email, c1.countrycode from c1;
 ```
 
 ### For transactional tables
