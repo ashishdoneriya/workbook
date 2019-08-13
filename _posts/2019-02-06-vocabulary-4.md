@@ -28,7 +28,7 @@ A riposte to that argument was provided by Sea Containers, the shipping group he
 **Benignant (adjective)  कृपालु**  
 The queen had a benignant reputation and was loved for her caring treatment of others.
 
-**Dissemble (verb)  ढोंग करना / दिखावा करना**  
+**Dissemble (verb)  ढोंग करना / दिखावा करना / छिपाना**  
 The con man did his best to dissemble his real motives from the wealthy widow.
 
 **NonPareil (adjective)  अद्वितीय (no match)**  
