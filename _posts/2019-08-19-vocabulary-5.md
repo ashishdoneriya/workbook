@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-`Anomalous (adj) असामान्य / नियम विरुद्ध / not normal`  
+**Anomalous (adj) असामान्य / नियम विरुद्ध / not normal**  
 Researchers could not explain the anomalous test results.
 
 
