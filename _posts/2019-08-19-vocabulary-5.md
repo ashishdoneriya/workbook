@@ -76,7 +76,7 @@ Cautious of danger; carefully watching and guarding against deception, artifices
 exclude, eliminate, reject/dismiss
 
 **Concessions**  
-विशेष सुविधा / छूट
+विशेष सुविधा / छूट  
 Ms. Lam, perhaps wary of being seen to be weak in the face of mounting pressure, has ruled out any more concessions.
 
 
@@ -84,7 +84,7 @@ Ms. Lam, perhaps wary of being seen to be weak in the face of mounting pressure,
 अनिच्छा / unwillingness to do something.
 
 **Fan the flames (phrase)**  
-cause an emotion such as anger or hatred to become stronger.
+cause an emotion such as anger or hatred to become stronger.  
 Her reluctance to do so even after the Bill was suspended only fanned the flames.
 
 
