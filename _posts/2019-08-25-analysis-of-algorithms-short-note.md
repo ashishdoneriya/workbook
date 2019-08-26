@@ -18,4 +18,5 @@ summary: ""
 Analysis of algorithm is the process of analyzing the problem-solving capability of the algorithm in terms of the time and size required.
 
 ### What is Time Complexity?
-Time complexity is a concept in computer science that deals with the measurement of the amount of time taken by a set of code or algorithm to process or run as a function of the amount of input.
+* Time complexity of an algorithm signifies the total time required by the program to run till its completion.
+* Time complexity is a concept in computer science that deals with the measurement of the amount of time taken by a set of code or algorithm to process or run as a function of the amount of input. [https://www.studytonight.com/data-structures/time-complexity-of-algorithms]
