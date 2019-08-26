@@ -19,4 +19,13 @@ Analysis of algorithm is the process of analyzing the problem-solving capability
 
 ### What is Time Complexity?
 * Time complexity of an algorithm signifies the total time required by the program to run till its completion.
-* Time complexity is a concept in computer science that deals with the measurement of the amount of time taken by a set of code or algorithm to process or run as a function of the amount of input. [https://www.studytonight.com/data-structures/time-complexity-of-algorithms]
+* Time complexity is a concept in computer science that deals with the measurement of the amount of time taken by a set of code or algorithm to process or run as a function of the amount of input.  [https://www.studytonight.com/data-structures/time-complexity-of-algorithms]
+
+### Big O notation
+Big O notation is used for the worst case analysis of an algorithm.
+
+### Big Omega
+Big Omega is used for the best case analysis of an algorithm.
+
+### Big Theta
+Big Theta is used for the analysis of an algorithm when the the best case and worst case analysis is the same.
