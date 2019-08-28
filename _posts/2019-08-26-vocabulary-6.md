@@ -1,7 +1,7 @@
 ---
 title: "Vocabulary Part 6"
-date: 2019-08-18T22:00:00+05:30
-lastmod: 2019-08-18T22:00:00+05:30
+date: 2019-08-26T22:00:00+05:30
+lastmod: 2019-08-26T22:00:00+05:30
 draft: false
 tags: ["vocabulary"]
 categories: ["vocabulary"]
