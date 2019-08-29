@@ -9,5 +9,5 @@ toc: true
 autoCollapseToc: true
 ---
 
-Applicable vs usable
-
+* Applicable vs usable
+* humid vs muggy

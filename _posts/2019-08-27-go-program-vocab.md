@@ -21,7 +21,8 @@ import (
 )
 
 func main() {
-  b, err := ioutil.ReadFile("vocabulary.txt") // just pass the file name
+  // just pass the file name
+  b, err := ioutil.ReadFile("vocabulary.txt")
   if err != nil {
     fmt.Print(err)
   }
