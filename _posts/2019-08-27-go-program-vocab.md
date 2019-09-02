@@ -1,7 +1,7 @@
 ---
 title: "Go program for vocabulary"
 date: 2019-08-27T22:10:00+05:30
-lastmod: 2019-08-27T22:10:00+05:30
+lastmod: 2019-09-01T22:10:00+05:30
 draft: false
 tags: ["programming"]
 categories: ["programming"]
@@ -21,17 +21,18 @@ import (
 )
 
 func main() {
-  // just pass the file name
-  b, err := ioutil.ReadFile("vocabulary.txt")
-  if err != nil {
-    fmt.Print(err)
-  }
-
-  content := string(b) // convert content to a 'string'
-
-  groups := strings.Split(content, "\n\n")
-
   for {
+    // just pass the file name
+    b, err := ioutil.ReadFile("vocabulary.txt")
+    if err != nil {
+      fmt.Print(err)
+    }
+
+    // convert content to a 'string'
+    content := string(b)
+
+    groups := strings.Split(content, "\n\n")
+
     for _, group := range groups {
       index := strings.Index(group, "\n")
       heading := group[:index]
@@ -41,9 +42,9 @@ func main() {
       if err != nil {
         panic(err)
       }
-      
+
       time.Sleep(90 * time.Second)
-      
+
       err = beeep.Notify(heading, content, "assets/information.png")
       if err != nil {
         panic(err)
