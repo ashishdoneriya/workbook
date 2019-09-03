@@ -10,85 +10,60 @@ toc: false
 
 ---
 
-**Anomalous (adj)**  
-असामान्य / नियम विरुद्ध / not normal  
-Researchers could not explain the anomalous test results.
+**Paramount (adjective)**  
+ऊंचे दर्जे का / सर्व-श्रेष्ठ / high priority  
+Maintaining the secrecy of the agreement is of paramount importance
 
+**Discrete (adjective)**  
+अलग / constituting a separate entity  
+Several discrete sections to this vast medical complex, including a college of pharmacology and a research center
 
-**Prodigality (adj)**  
-फिजूलख़र्ची  
-As a youth, Mr. Graham, now 65, was the prodigal of the Graham family, a college dropout fond of alcohol.
+**Imprecise (adjective)**  
+अनिश्चित / not precise  
+It's an imprecise translation of the original sentence.  
+Previous data sets were often too imprecise to measure this accurately.
 
-**Indigenous (adj)**  
-स्थानीय  
-Nagaland is setting up a register of indigenous inhabitants of Nagaland (RIIN)
+**Preclude (verb)**  
+बंद करना, रोकना, अलग करना, रोक देना  
+Bad weather precluded any further attempts to reach the summit.
 
+**Purview (noun)**  
+परिधि, क्षेत्र, सीमा, कार्यक्षेत्र / range of something  
+The case is within the court's purview.  
+That question is outside my purview
 
-**Curb (verb)**  
-प्रतिबंध  
-Nagaland passed a resolution to place curbs on IBI
+**Vague (adjective)**  
+अस्पष्ट / not clearly expressed  
+We had only a vague idea of where we were.
 
+**Nudge (verb)**  
+हलका धक्का / to touch or push gently  
+Nine-year-old Jaime Preciado nudged his dad onto the set.
 
-**Assiduous**  
-showing great care and perseverance  
-Researchers are working with assiduous efforts to improve algorithms
+**Restraint (noun)**  
+संयम, कठोरता, क्रूरती, अवरोध, नियंत्रण  
+The prisoner was placed in restraints.  
+His angry response showed a lack of restraint.  
+The government has acted with restraint in dealing with this crisis.
 
+**Incurs**  
+अपने ऊपर लेना, उठाना, झेलना, झलिना, सहना  
+bring down upon oneself  
+Submitting students to the rigors of learning seemed only to incur the wrath of many of them
 
-**Unprecedented (adj)**  
-अभूतपूर्व / not done or experienced before  
-The Bill was suspended amid public anger, but the protests affecting the economy and setting off an unprecedented political crisis.
+**Employ (verb)**  
+इस्तेमाल करना  
+to make use of (someone or something inactive)  
+The company is accused of employing questionable methods to obtain the contract.
 
+**Contingency (noun)**  
+अनिश्चित घटना / हालत  
+an event (such as an emergency) that may but is not certain to occur  
+An industry group developed contingency plans, in case its offices were raided and computer servers were seized.
 
-**Extradite (verb)**  
-hand over (a person accused or convicted of a crime) to the jurisdiction  
-The man was arrested last Wednesday and will be extradited to Utah to face charges alleged in the warrant.
-
-
-**Rein (noun)**  
-लगाम  
-After the president resigned, the vice president stepped in and took the reins of the company
-
- 
-**Rein in (phrasal verb)**  
-बाग-डोर  
-The police have tried several tactics to rein in the protesters and restore normalcy in the city, a major Asian financial hub and business centre
-
-
-**Normalcy (noun)**  
-सामान्य स्थिति  
-A combat-weary soldier longing for the normalcy of peacetime life
-
-
-**Ransack (transitive verb)**  
-to search through and (or) steal from in a forceful and damaging way  
-The protesters ransacked the local legislative council building and occupied parts of the airport, which led to the cancellation of several flights
-
-
-**Graffiti**  
-usually unauthorized writing or drawing on a public surface  
-Graffiti appeared across the city calling for “a revolution” and “liberation” of Hong Kong
-
-
-**Wary**  
-Cautious of danger; carefully watching and guarding against deception, artifices, and dangers; timorously or suspiciously prudent; circumspect; scrupulous; careful.
-
-**Rule out (phrasal verb)**  
-exclude, eliminate, reject/dismiss
-
-**Concessions**  
-विशेष सुविधा / छूट  
-Ms. Lam, perhaps wary of being seen to be weak in the face of mounting pressure, has ruled out any more concessions.
-
-
-**Reluctance (noun)**  
-अनिच्छा / unwillingness to do something.
-
-**Fan the flames (phrase)**  
-cause an emotion such as anger or hatred to become stronger.  
-Her reluctance to do so even after the Bill was suspended only fanned the flames.
-
-
-**Provocative (adjective)**  
-उसकानेवाला / annoying, irritating, inflammatory.  
-The protesters on the other side took an excessively provocative path when they ransacked the city Parliament and attacked the police
-
+**Endure (verb)**  
+सहन करना
+Meaning : To continue in the same state  
+Example : The architecture truly elevates the art and the viewing experience, creating an enduring impression for all those who enter.  
+Meaning : To remain firm under suffering or misfortune without yielding.  
+Example : He endured five years as a prisoner of war.
