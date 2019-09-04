@@ -51,3 +51,32 @@ As soon as you meet Janet, you will love her.
 Until you are eighteen, you will not drive a car.  
 
 
+## Use of all/whole
+when plural noun use all,  :: all - every , whole - entire, whole after a definite article (a/the)
+whole - countable, all - uncountable,
+every - single countable noun (singular)
+was/were - were for unreal/imaginary situations
+would/would have :: would - possibility , would have - possibility in the past
+should have - mistakes in the past
+had better - specific advice or consequence happen
+
+for - used in reason, of - used for connection, to - used for direction, moving towards
+since - time, because - causation
+
+Causative verbs are verbs that show the reason that something happened. They do not indicate something the subject did for themselves, but something the subject got someone or something else to do for them. The causative verbs are: let (allow, permit), make (force, require), have, get, and help. Let's take a closer look at the causative verbs.
+
+have/get/make - I'm going to have my room cleaned. she made me wear a skirt. I've got my house cleaned
+
+little - singular and uncountable noun ex - money, food, time
+a few - plural nouns, a few clouds, songs
+
+use passive voice when the actor or subject is not necessary
+
+
+"I have been thinking about you" is past tense, and implies that you're not thinking about the person any more.
+"I am thinking about you" is present tense, and indicates you are currently thinking about them. If used in a letter, this version indicates a person remains in your thoughts.
+
+This is the best party I've ever had. (This is the best so far. There may some day be a better one.)
+That was the best party I've ever had. (That was the best so far. There may some day be a better one.)
+That was the best party I ever had. (That was the best one of all. I don't expect to have any more.)
+
