@@ -35,8 +35,15 @@ func main() {
 
     for _, group := range groups {
       index := strings.Index(group, "\n")
-      heading := group[:index]
-      content := group[index+1 : len(group)]
+      var content string
+      var heading string
+      if index != -1 {
+        heading = group[:index]
+        content = group[index+1 : len(group)]
+      } else {
+        heading = group
+        content = ""
+      }
 
       err := beeep.Notify(heading, content, "assets/information.png")
       if err != nil {
@@ -53,4 +60,5 @@ func main() {
     }
   }
 }
+
 ```
