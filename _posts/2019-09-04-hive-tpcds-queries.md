@@ -1,7 +1,7 @@
 ---
 title: "Hive tpcds query"
-date: 2019-08-06T03:17:00+05:30
-date: 2019-08-06T03:17:00+05:30
+date: 2019-09-04T03:17:00+05:30
+date: 2019-09-04T03:17:00+05:30
 draft: false
 tags: ["hive"]
 categories: ["big-data"]
