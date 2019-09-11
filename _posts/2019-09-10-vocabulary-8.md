@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-**Enact (verb) - लागू करना **  
+**Enact (verb) - लागू करना**  
 MP to enact law to reserve 70% for locals.  
 
 **Fend off - स्वयं का बचाव करना**  
