@@ -71,7 +71,7 @@ ROA = Net Income / Total Assets
 ### Asset Turnover Ratio
 The asset turnover ratio measures the value of a company's sales or revenues relative to the value of its assets. The asset turnover ratio can be used as an indicator of the efficiency with which a company is using its assets to generate revenue.
 
-### Cash Flow from Investing Activities
+## Cash Flow from Investing Activities
 Cash Flow from Investing Activities is the section of a company’s cash flow statement that displays how much money has been used in (or generated from) making investments during a specific time period. Investing activities include purchases of long-term assets (such as property, plant, and equipment), acquisitions of other businesses, and investments in marketable securities (stocks and bonds).
 
 ### What do Investing Activities Not Include?
@@ -91,5 +91,17 @@ Capex = PP&E(current) - PP&E(prior) + Depriciation
 
 PP&E - Property, Plants & Equipments
 
+## Cash Flow from Financing Activities
+Cash Flow from Financing Activities is the net amount of funding a company generates in a given time period, used to finance its business. Finance activities include the issuance and repayment of equity, payment of dividends, issuance and repayment of debt, and capital lease obligations. Companies that require capital will raise money by issuing debt or equity, and this will be reflected in the cash flow statement.
 
+CFI = Issue/Repurchase Equity + Isuue/Repurchase Debt + Dividend payments and other items.
 
+Financing activities include:  
+ - Issuance of equity
+ - Repayment of equity
+ - Payment of dividends
+ - Issuance of debt
+ - Repayment of debt
+ - Capital/finance lease payments
+ 
+ 
