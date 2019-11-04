@@ -37,16 +37,9 @@ Current assets can also vary depending on the type of business. Because current 
 Your company’s inventory is technically a current asset, however, it should be handled carefully. Inventory can be affected by certain accounting methods and by market fluctuations, so it is important to keep other current assets in mind.  
 [https://debitoor.com/dictionary/current-assets](https://debitoor.com/dictionary/current-assets)
 
-### Tangible /Fixed assets - What are tangible assets?
-Tangible assets, also known as hard assets, are physical items with a clear purchase value used by a business to produce goods and services.  
-Examples of tangible assets include: PP&E (property, plant, and equipment) , furniture, computers and machinery.
-
-
-
 ## Gross Block
 Gross block is the sum total of all assets of the company valued at their cost of acquisition. This is inclusive of the depreciation that is to be charged on each asset.  
 = Total Value of Asset ( Its Original Puirchase price+any capex)
-
 
 ## Net Block
 Net block is the gross block less accumulated depreciation on assets. Net block is actually what the asset are worth to the company.  
