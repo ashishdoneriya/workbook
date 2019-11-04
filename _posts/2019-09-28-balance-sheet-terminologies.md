@@ -3,11 +3,45 @@ title: "Balance Sheet Terminologies"
 date: 2019-09-28T22:00:00+05:30
 lastmod: 2019-09-28T22:00:00+05:30
 draft: false
-tags: ["vocabulary"]
-categories: ["vocabulary"]
+tags: ["finance"]
+categories: ["finance"]
 summary: "Balance sheet terminologies"
 
 ---
+
+### Types of Asset (संपत्ति):
+1. Tangible Assets - Physical presence. eg cash, stocks, bonds, property, buildings, equipment, inventory, precious metals and art. 
+2. Intangible Assets - No physical presence. eg. cash, stocks, bonds, property, buildings, equipment, inventory, precious metals and art.
+3. Financial Asset - Value based on a contract. eg. cash, stocks, bonds, derivatives.
+4. Fixed Asset - Long lived assets, cannot be easily converted into cash. eg. property building equipment and furniture
+5. Current Asset - Cash & assets expected to be converted into cash, consumed or expanded in the next year or current operating period,
+
+Source : [https://simplicable.com/new/asset](https://simplicable.com/new/asset)
+
+
+[https://debitoor.com/dictionary](https://debitoor.com/dictionary)
+
+### Credit - What is a credit?
+A credit is an outstanding (not yet paid, resolved, or dealt with) amount that is due to a creditor by a debtor (borrower). In the accounting ledger, this is recorded on the right side of the balance sheet (negative) as it is a decrease in assets.
+
+### Accounts receivable - What are accounts receivable?
+An amount that is owed to a company by a customer who purchased goods or services on credit
+
+### Current assets - What are current assets?
+A current asset is either cash or an asset that can be sold (e.g. stock) that can be converted into cash within a year and is often used to pay off current liabilities  
+Current assets (apart from being ready cash) can be sold or converted into cash within one year of acquisition and play a vital part in managing the cashflow of your business.  
+
+### What can be considered a current asset?
+Generally, current assets consist of your current stock, what's owed to you by your customers (accounts receivable), any short-term investments (such as easy access short-term deposit accounts), and, of course, cash and what's in your current bank account.  
+Current assets can also vary depending on the type of business. Because current assets include stock and cash equivalents, this means that anything that has the potential to be turned into cash should be recorded as a current asset in your balance sheet.  
+Your company’s inventory is technically a current asset, however, it should be handled carefully. Inventory can be affected by certain accounting methods and by market fluctuations, so it is important to keep other current assets in mind.  
+[https://debitoor.com/dictionary/current-assets](https://debitoor.com/dictionary/current-assets)
+
+### Tangible /Fixed assets - What are tangible assets?
+Tangible assets, also known as hard assets, are physical items with a clear purchase value used by a business to produce goods and services.  
+Examples of tangible assets include: PP&E (property, plant, and equipment) , furniture, computers and machinery.
+
+
 
 ## Gross Block
 Gross block is the sum total of all assets of the company valued at their cost of acquisition. This is inclusive of the depreciation that is to be charged on each asset.  
