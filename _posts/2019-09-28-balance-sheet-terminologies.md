@@ -71,4 +71,25 @@ ROA = Net Income / Total Assets
 ### Asset Turnover Ratio
 The asset turnover ratio measures the value of a company's sales or revenues relative to the value of its assets. The asset turnover ratio can be used as an indicator of the efficiency with which a company is using its assets to generate revenue.
 
+### Cash Flow from Investing Activities
+Cash Flow from Investing Activities is the section of a company’s cash flow statement that displays how much money has been used in (or generated from) making investments during a specific time period. Investing activities include purchases of long-term assets (such as property, plant, and equipment), acquisitions of other businesses, and investments in marketable securities (stocks and bonds).
+
+### What do Investing Activities Not Include?
+ - Interest payments or dividends
+ - Debt, equity, or other forms of financing
+ - Deprecation of capital assets (even though the purchase of these assets is part of investing)
+ - All income and expenses related to normal business operations
+ 
+ Source : [https://corporatefinanceinstitute.com/resources/knowledge/accounting/cash-flow-from-investing-activities/](https://corporatefinanceinstitute.com/resources/knowledge/accounting/cash-flow-from-investing-activities/)
+ 
+ NOTE : Capital Expenditure comes under (Investments in Property & Equipment)
+ 
+ ### What is CapEx?
+ CapEx (short for capital expenditures) is the money invested by a company in acquiring, maintaining, or improving fixed assets such as property, buildings, factories, equipment, and technology.  CapEx is included in the cash flow statement section of a company’s three financial statements, but it can also be derived from the income statement and balance sheet in most cases.  This guide will provide a formula for how to calculate CapEx.
+
+Capex = PP&E(current) - PP&E(prior) + Depriciation
+
+PP&E - Property, Plants & Equipments
+
+
 
