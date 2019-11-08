@@ -10,16 +10,15 @@ summary: "Investing resources"
 ---
 ## Books :
 
-0. Peaceful Investing: A Simple Guide to Hassle-free Investing - Dr. Vijay Malik
-1. [The Intelligent Investor - Benjamin Graham](https://www.e-reading.life/bookreader.php/133361/The_Intelligent_Investor.pdf)
-2. One Up On Wall Street - Peter Lynch
-3. [Common Stocks & Uncommon Profits – Philip Fisher](http://www.funtech.in/wp-content/uploads/2017/09/Common-Stocks-and-Uncommon-Profits.pdf)
-4. [The Warren Buffett Way – Robert Hagstrom](https://finbuzzactu.files.wordpress.com/2015/08/the-warren-buffett-way.pdf)
-5. [Essays of Warren Buffett – Lawrence Cunningham](http://csinvesting.org/wp-content/uploads/2015/05/Essays-of-Warren-Buffett-_-Lessons-for-Corporate-America_Cunningham.pdf)
+1. Peaceful Investing: A Simple Guide to Hassle-free Investing - Dr. Vijay Malik
+2. [The Intelligent Investor - Benjamin Graham](https://www.e-reading.life/bookreader.php/133361/The_Intelligent_Investor.pdf)
+3. One Up On Wall Street - Peter Lynch
+4. [Common Stocks & Uncommon Profits – Philip Fisher](http://www.funtech.in/wp-content/uploads/2017/09/Common-Stocks-and-Uncommon-Profits.pdf)
+5. [The Warren Buffett Way – Robert Hagstrom](https://finbuzzactu.files.wordpress.com/2015/08/the-warren-buffett-way.pdf)
+6. [Essays of Warren Buffett – Lawrence Cunningham](http://csinvesting.org/wp-content/uploads/2015/05/Essays-of-Warren-Buffett-_-Lessons-for-Corporate-America_Cunningham.pdf)
 
 
 ### Books For Analytics :
-
 1. [Security Analysis - Benjamin Graham and David Dodd](https://www.paulasset.com/articles/wp-content/uploads/2012/09/Benjamin-Graham_-David-Dodd-Security-Analysis-Sixth-Edition_-Foreword-by-Warren-Buffett.pdf)
 2. [Poor Charlie’s Almanack – The Wit and Wisdom of Charles T. Munger](http://jtaken.csoft.net/book/Poor%20Charlie's%20Almanack%20by%20Charles%20T.%20Munger.pdf)
 3. [The Interpretation of Financial Statements – Benjamin Graham](http://1icz9g2sdfe31jz0lglwdu48.wpengine.netdna-cdn.com/wp-content/uploads/2011/11/interpretation-financial-statements.pdf)
@@ -79,3 +78,20 @@ summary: "Investing resources"
 3. [Most Important Financial Ratios](https://www.readyratios.com/reference/)
 4. [Fidelity Learning Center](https://www.fidelity.com/learning-center/overview)
 5. [Wallstreetmojo](https://www.wallstreetmojo.com)
+
+## Warren Buffett
+1. [Berkshire Annual Reports](http://www.berkshirehathaway.com/reports.html)
+3. [Buffett FAQ](http://buffettfaq.com/)
+
+## Book Notes
+1. [Security Analysis by Benjamin Graham (Notes by Vinod Palikala)](http://vinodp.com/documents/investing/security_analysis/security_analysis_notes.pdf)
+2. [Intelligent Investor by Benjamin Graham (Notes by ValueInvesting Notes)](http://www.investment-in-stocks.com/wp-content/uploads/2015/05/The-Intelligent-Investor-ValueInvesting-Notes.pdf)
+3. [Poor Charlie's Almanack by Charlie T. Munger (Notes by Allen Cheng)](https://www.allencheng.com/wp-content/uploads/kalins-pdf/singles/poor-charlies-almanack-charlie-munger-book-summary-pdf.pdf)
+4. [Understanding Michael Porter by Joan Magretta (Notes by Allen Cheng)](https://www.allencheng.com/wp-content/uploads/kalins-pdf/singles/understanding-michael-porter-pdf-summary-joan-magretta.pdf)
+5. [Principles by Ray Dalio (Notes by Allen Cheng)](https://www.allencheng.com/wp-content/uploads/2018/01/Principles-Ray-Dalio-Summary-from-allencheng.com_.pdf)
+6. [Thinking Fast and Slow by Daniel Kahneman (Notes by Allen Cheng)](https://www.allencheng.com/thinking-fast-and-slow-summary-pdf-daniel-kahneman/)
+7. [Thinking Fast and Slow by Daniel Kahneman (Notes by Eric Johnson)](https://erikreads.files.wordpress.com/2014/04/thinking-fast-and-slow-book-summary.pdf)
+8. [How to Read a Book by Moltimer Adler (Notes by Allen Cheng)](https://www.allencheng.com/wp-content/uploads/kalins-pdf/singles/how-to-read-a-book-pdf-summary.pdf)
+
+
+SOURCE : [Venkatesh Jayaraman](https://www.linkedin.com/pulse/my-notes-compilation-value-investing-venkatesh-jayaraman/)
