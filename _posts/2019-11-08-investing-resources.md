@@ -61,3 +61,15 @@ summary: "Investing resources"
 ### Books
 
 - [An Investor’s Guide to reading Annual Reports – Singapore Exchange](http://www.tuansing.com/Upload/Attachment/InvestorRelation/3/5/32/An Investor's Guide to Reading Annual Reports.pdf)
+
+## Financial Statements
+
+1. [Financial Statement Analysis And Reporting – By Prof. Anil K. Sharma](https://www.youtube.com/watch?v=OT5RdoJAkhY&list=PLPjSqITyvDeUTeAOGhip_ubjN3y8oqT13)
+2. [Working Capital Management – By Prof. Anil K. Sharma](https://www.youtube.com/watch?v=R2ndARL3RV4&list=PLLy_2iUCG87BFW5LwV9zFEH5dgS2XQTH5)
+3. [Khan Academy – Valuation and Investing](https://www.youtube.com/watch?v=fa-VZ-SDxgY&list=PL1A5E1453415E8F8E)
+4. [The Finance Storyteller](https://www.youtube.com/channel/UCQQJnyU8fALcOqqpyyIN4sg)
+5. [Ben Graham Centre for Value Investing](https://www.youtube.com/playlist?list=PL6BD28CF93C70C4AA)
+6. [Value Investing Tutorials By Christian Ryther](https://www.youtube.com/playlist?list=PL8yf5ZvJVVJXLYRAg8n5mS_gxV_Mtw1LG)
+
+
+
