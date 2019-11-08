@@ -41,7 +41,7 @@ summary: "Investing resources"
 2. [Moneyweek](https://www.youtube.com/watch?v=zAtMjVUnXkM&list=PL5ClP8rFPXZLzLEWAN7WXIjcZv-gi09K2)
 3. [Dhirendra Kumar/Value Research](https://www.youtube.com/watch?v=dMGixapYz1I&list=PLlcvGUYyh9Luf-6GZRigqUBUc_grw0UYZ)
 4. [Tim Bennett](https://www.youtube.com/watch?v=sLRXVE8P8Kw&list=PLpmW-CMzEVCYpIhHkmliIBRQo4EpFyAl7)
-5. [Aswath Damodaran on Investing Philosophie](https://www.youtube.com/watch?v=h37fJcDjjWg&list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6]
+5. [Aswath Damodaran on Investing Philosophie](https://www.youtube.com/watch?v=h37fJcDjjWg&list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6)
 6. [Investopedia](https://www.youtube.com/watch?v=-bLeRnOHq-8&list=PLEAWiihj06OL80BfkpXVh2AQ-AYe04xiU)
 
 
@@ -64,6 +64,8 @@ summary: "Investing resources"
 
 ## Financial Statements
 
+### Videos
+
 1. [Financial Statement Analysis And Reporting – By Prof. Anil K. Sharma](https://www.youtube.com/watch?v=OT5RdoJAkhY&list=PLPjSqITyvDeUTeAOGhip_ubjN3y8oqT13)
 2. [Working Capital Management – By Prof. Anil K. Sharma](https://www.youtube.com/watch?v=R2ndARL3RV4&list=PLLy_2iUCG87BFW5LwV9zFEH5dgS2XQTH5)
 3. [Khan Academy – Valuation and Investing](https://www.youtube.com/watch?v=fa-VZ-SDxgY&list=PL1A5E1453415E8F8E)
@@ -71,5 +73,9 @@ summary: "Investing resources"
 5. [Ben Graham Centre for Value Investing](https://www.youtube.com/playlist?list=PL6BD28CF93C70C4AA)
 6. [Value Investing Tutorials By Christian Ryther](https://www.youtube.com/playlist?list=PL8yf5ZvJVVJXLYRAg8n5mS_gxV_Mtw1LG)
 
-
-
+### Articles & Books
+1. [Advanced Financial Statements Analysis - Investopedia](https://i.investopedia.com/inv/pdf/tutorials/financialstatements.pdf)
+2. [101 Financial Ratios & Metrics To Improve Your Investing Skills](https://www.suredividend.com/ratios-metrics/)
+3. [Most Important Financial Ratios](https://www.readyratios.com/reference/)
+4. [Fidelity Learning Center](https://www.fidelity.com/learning-center/overview)
+5. [Wallstreetmojo](https://www.wallstreetmojo.com)
