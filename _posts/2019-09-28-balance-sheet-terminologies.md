@@ -84,8 +84,8 @@ Cash Flow from Investing Activities is the section of a company’s cash flow st
  
  NOTE : Capital Expenditure comes under (Investments in Property & Equipment)
  
- ### What is CapEx?
- CapEx (short for capital expenditures) is the money invested by a company in acquiring, maintaining, or improving fixed assets such as property, buildings, factories, equipment, and technology.  CapEx is included in the cash flow statement section of a company’s three financial statements, but it can also be derived from the income statement and balance sheet in most cases.  This guide will provide a formula for how to calculate CapEx.
+### What is CapEx?
+CapEx (short for capital expenditures) is the money invested by a company in acquiring, maintaining, or improving fixed assets such as property, buildings, factories, equipment, and technology.  CapEx is included in the cash flow statement section of a company’s three financial statements, but it can also be derived from the income statement and balance sheet in most cases.  This guide will provide a formula for how to calculate CapEx.
 
 Capex = PP&E(current) - PP&E(prior) + Depriciation
 
@@ -104,4 +104,4 @@ Financing activities include:
  - Repayment of debt
  - Capital/finance lease payments
  
- 
+ Net cash flow = CFO + CFI
