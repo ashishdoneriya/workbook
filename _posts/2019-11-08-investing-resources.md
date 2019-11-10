@@ -16,6 +16,7 @@ summary: "Investing resources"
 4. [Common Stocks & Uncommon Profits – Philip Fisher](http://www.funtech.in/wp-content/uploads/2017/09/Common-Stocks-and-Uncommon-Profits.pdf)
 5. [The Warren Buffett Way – Robert Hagstrom](https://finbuzzactu.files.wordpress.com/2015/08/the-warren-buffett-way.pdf)
 6. [Essays of Warren Buffett – Lawrence Cunningham](http://csinvesting.org/wp-content/uploads/2015/05/Essays-of-Warren-Buffett-_-Lessons-for-Corporate-America_Cunningham.pdf)
+7. [Common Stocks & Uncommon Profits - Philip Fisher](http://www.funtech.in/wp-content/uploads/2017/09/Common-Stocks-and-Uncommon-Profits.pdf)
 
 
 ### Books For Analytics :
