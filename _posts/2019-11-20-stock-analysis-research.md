@@ -69,3 +69,5 @@ Final Result - No
 No, couldnot nullify borrowings in 10 years, If time availabe can check why
 Final Result - No
 
+
+NOTE : I don't own any of these above stocks above mentioned as on 25th November 2019.
