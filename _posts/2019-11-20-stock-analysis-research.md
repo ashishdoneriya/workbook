@@ -27,7 +27,7 @@ Analyze Further however, peg = 1.84
 
 ### Alkyl Amines Chemicals Ltd
 
-Numbers seems good except its debt, which they couldn't reduce to one digit (less than 10 cr.) in the last 10 years. When comparing its sales growth with the self sustainable growth rate (SSGR) for the last seven years, whenever it grows beyond its SSGR,  debt increases. At present its SSGR is \~20% but sales growth is 31%. And either it grows either above 22 or below 10. In the latest quarter they have reduced borrowings by improving inventory turnover and reducing debtor days. Need to find moat of this company.
+Numbers seems good except its debt, which they couldn't reduce to one digit (less than 10 cr.) in the last 10 years. When comparing its sales growth with the self sustainable growth rate (SSGR) for the last seven years, whenever it grows beyond its SSGR,  debt increases. At present its SSGR is \~20% but sales growth is 31%. And either it grows either above 22 or below 10. In the latest quarter they have reduced borrowings by improving inventory turnover and reducing debtor days. Need to find moat of this company. Cannot buy just because it reduced its debt in the latest quarter.
 
 ### Balkrishna Industries Ltd
 
