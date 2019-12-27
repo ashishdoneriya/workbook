@@ -9,9 +9,6 @@ categories:
 summary: Stock Analysis Research
 
 ---
-### Mindtree
-
-analyse further
 
 ### Excel Industries Ltd
 
@@ -57,6 +54,9 @@ Final Result - No
 
 Poor growth in 5 years, no dividend, no credit ratings, Do not analyse further even if its profit increasing day by day because it never pays dividend. Retained earning - 592, Mcap increased - 216. It has eroded investors wealth.
 Final Result - No
+
+### Mindtree
+Technology company. Not interested
 
 ### Oriental Carbon & Chemicals Ltd
 
