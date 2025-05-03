@@ -1,0 +1,28 @@
+{
+	"baseURL": "https://ashishdoneriya.github.io",
+	"title": "My Workbook",
+	"theme": "my-theme",
+	"params": {
+		"description": "This website contains My Notes",
+		"author": {
+			"name": "Ashish Doneriya"
+		}
+	},
+	"taxonomies": {
+		"category": "categories"
+	},
+	"uglyURLs": {
+		"page": true
+	},
+	"permalinks": {
+		"taxonomy": {
+			"categories": "/topics/"
+		},
+		"term": {
+			"categories": "/topics/:slug"
+		}
+	},
+	"minify": {
+		"minifyOutput": true
+	}
+}

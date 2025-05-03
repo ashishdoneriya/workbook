@@ -1,0 +1,35 @@
+name: Website Build
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Step 2: Install Hugo Extended Version (for SCSS support)
+      - name: Install Hugo Extended Version
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.147.0/hugo_extended_withdeploy_0.147.0_linux-amd64.deb
+          sudo dpkg -i hugo_extended_withdeploy_0.147.0_linux-amd64.deb
+
+      # Step 3: Build the site with Hugo
+      - name: Build the site with Hugo
+        run: hugo
+
+      # Step 4: Push to gh-pages branch of ashishdoneriya.github.io
+      - name: Deploy to ashishdoneriya.github.io
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          repository-name: ashishdoneriya/ashishdoneriya.github.io # Specify the target repository
+          branch: master  # Deploy to the master branch of that repo
+          folder: public  # Hugo generates the site into the 'public' folder by default
+          token: ${{ secrets.PAT_DEPLOY_TOKEN }}  # GitHub automatically provides this token
