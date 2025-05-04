@@ -106,3 +106,11 @@ Financing activities include:
  - Capital/finance lease payments
  
  Net cash flow = CFO + CFI
+
+
+## Misc.
+* Capital Expenditure = CFI (Cash flow from investing activities)
+* CFF (Cash Flow from financing activities) = dividend to shareholders and repayment of Debt
+* SG to capex =Sales Growth over last 10 years/proportion of CFO used as Capital Expenditure.
+* If inventory turnover is very low ( < 2) then it means capital intensive
+* Combination of low net profit margin and low fixed asset turnover will always require large capex
