@@ -123,12 +123,12 @@ They are **not your own money** - they’re temporary credit. That’s why they�
 
 ## What If ROCE is High but ROA is Low?
 
-This is a crucial red flag or missed opportunity — depending on how it’s handled.
+This is a crucial red flag or missed opportunity - depending on how it’s handled.
 
 ### What it means:
 
-- The business engine (core operations) is running efficiently — strong ROCE.
-- But the company is sitting on too many unproductive or idle assets — weak ROA.
+- The business engine (core operations) is running efficiently - strong ROCE.
+- But the company is sitting on too many unproductive or idle assets - weak ROA.
   Examples: too much cash, unused land, or investments not earning proper returns.
 
 ### Impact on business and share price:
@@ -143,8 +143,8 @@ That’s when stock performance weakens, even with decent profits.
 
 ### Real examples:
 
-- **HUL:** Extremely efficient with capital (high ROCE), but has limited reinvestment opportunities — low ROA and slow share price growth.
-- **ITC:** Earlier stuck in same trap, but now using its profits to build FMCG and new verticals — ROA is improving and share price is catching up.
+- **HUL:** Extremely efficient with capital (high ROCE), but has limited reinvestment opportunities - low ROA and slow share price growth.
+- **ITC:** Earlier stuck in same trap, but now using its profits to build FMCG and new verticals - ROA is improving and share price is catching up.
 
 ### The Fix:
 
@@ -154,7 +154,7 @@ Companies can correct this by:
 - Investing in new verticals or geographies
 - Selling non-core assets
 
-If they do nothing — they become “cash cows going nowhere.”
+If they do nothing - they become “cash cows going nowhere.”
 
 ## Final Take
 
