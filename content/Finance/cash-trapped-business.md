@@ -14,7 +14,7 @@ There was once a pharma company in Gujarat called Shakti Pharma. Founded by Rame
 Every year, revenue grew. The sales charts looked great.
 But every time Ramesh checked his bank account at month-end, it felt like a scam.
 
-“Where is the bloody cash?”
+"Where is the bloody cash?"
 
 That one question started a journey. A journey that had nothing to do with profit… and everything to do with how money moves inside a business.
 
@@ -22,16 +22,16 @@ That one question started a journey. A journey that had nothing to do with profi
 
 The first shock was about customer payments.
 
-Ramesh thought: I sold the medicine. They’ll pay next week, right?
+Ramesh thought: **I sold the medicine. They’ll pay next week, right?**
 
 Wrong.
 
 Some paid in 60 days. Some in 90. One government hospital took 120 days and still delayed.
 
-His accountant explained: “Sir, our average Debtor Days is around 75. That means, from the day you bill someone, you wait 75 days to get paid.”
+His accountant explained: **"Sir, our average Debtor Days is around 75. That means, from the day you bill someone, you wait 75 days to get paid."**
 
 Ramesh stared at the ceiling.
-“So the sale is real - but the cash is imaginary for 2.5 months.”
+**"So the sale is real - but the cash is imaginary for 2.5 months."**
 
 Exactly.
 
@@ -41,11 +41,11 @@ Next came the godown.
 
 Everywhere he looked, there were cartons of finished goods. Ready but unsold. Medicines, syrups, injectables… just sitting.
 
-“Why is this not moving?” he asked.
+**"Why is this not moving?"** he asked.
 
-The warehouse guy shrugged, “This is normal, sir. We have around 3 months of inventory.”
+The warehouse guy shrugged, **"This is normal, sir. We have around 3 months of inventory."**
 
-“THREE MONTHS?”
+**"THREE MONTHS?"**
 
 That’s when he learned about Inventory Days - how long stock sits before it gets sold.
 
@@ -61,9 +61,9 @@ Nope. The vendors gave 60- to 75-day payment terms.
 
 That was a relief.
 
-His accountant said: “Sir, this is called Days Payable. You take 75 days to pay suppliers. That’s working in your favour.”
+His accountant said: **"Sir, this is called Days Payable. You take 75 days to pay suppliers. That’s working in your favour."**
 
-Ramesh smirked. “So finally, someone else is funding my business.”
+Ramesh smirked. **"So finally, someone else is funding my business."**
 
 Correct.
 
@@ -94,39 +94,39 @@ From money going out of your hand to money coming back in.
 One afternoon, Ramesh sat with his accountant, looking at how much cash was left.
 
 The accountant said softly,  
-**“Sir, your working capital days are 90.”**
+**"Sir, your working capital days are 90."**
 
 Ramesh looked up.  
-**“What is that?”**
+**"What is that?"**
 
 The accountant didn’t pull out a spreadsheet. He just said:
 
-**“Sir, think of it like this - you run a business that sells medicine every day.”**
+**"Sir, think of it like this - you run a business that sells medicine every day."**
 
-**“But today, even before you sell anything, your money is already busy somewhere.”**
+**"But today, even before you sell anything, your money is already busy somewhere."**
 
-Ramesh asked, “Busy where?”
+Ramesh asked, "Busy where?"
 
 The accountant said:
 
-**“Some money is used to buy materials and make stock - it’s lying in your godown.”**  
-**“Some money is still with customers - you gave them goods, but they haven’t paid yet.”**  
-**“And yes, some money you still have to pay to your suppliers - that will go later.”**
+**"Some money is used to buy materials and make stock - it’s lying in your godown."**  
+**"Some money is still with customers - you gave them goods, but they haven’t paid yet."**  
+**"And yes, some money you still have to pay to your suppliers - that will go later."**
 
 Ramesh listened quietly.
 
 Then the accountant said:
 
-**“Now if I take all that - your stock money, customer money, and supplier dues - and do some maths, it tells me this:  
-To keep this business running, without even growing, you need to block money equal to 90 days of sales.”**
+**"Now if I take all that - your stock money, customer money, and supplier dues - and do some maths, it tells me this:  
+To keep this business running, without even growing, you need to block money equal to 90 days of sales."**
 
-**“That’s working capital days.”**
+**"That’s working capital days."**
 
 Ramesh thought for a second.  
-**“So I need three months of sales money already locked - just to stay normal?”**
+**"So I need three months of sales money already locked - just to stay normal?"**
 
 The accountant nodded.  
-**“Yes, sir. Even if you don’t take one extra order tomorrow - this much money is always stuck inside the machine.”**
+**"Yes, sir. Even if you don’t take one extra order tomorrow - this much money is always stuck inside the machine."**
 
 And that’s when it made sense.
 
@@ -135,7 +135,7 @@ He just wanted to know how deep the cash pit really was.
 
 The accountant saw he was finally interested.
 
-So he said, **“Sir, let me also show you how we calculate it - no formulas, just the logic.”**
+So he said, **"Sir, let me also show you how we calculate it - no formulas, just the logic."**
 
 He picked up a notepad and wrote:
 
@@ -143,15 +143,15 @@ He picked up a notepad and wrote:
 - You have ₹45 crore worth of customer bills still unpaid  
 - You still owe ₹25 crore to vendors
 
-**“So the money that’s fully stuck is ₹30 + ₹45 – ₹25 = ₹50 crore.”**
+**"So the money that’s fully stuck is ₹30 + ₹45 – ₹25 = ₹50 crore."**
 
 Then he said:
 
-**“Now we divide that ₹50 crore by your average daily sales.”**
+**"Now we divide that ₹50 crore by your average daily sales."**
 
 Ramesh nodded slowly.
 
-**“If you sell ₹55 crore a month, that’s around ₹1.83 crore per day.”**
+**"If you sell ₹55 crore a month, that’s around ₹1.83 crore per day."**
 
 So:
 
@@ -159,14 +159,22 @@ So:
 
 Ramesh was quiet.  
 Then he said,  
-**“So I always need ₹50 crore parked, just to keep the engine running?”**
+**"So I always need ₹50 crore parked, just to keep the engine running?"**
 
 The accountant nodded again.
 
-**“Yes. That money never goes out. It just keeps going round and round - always inside.”**
+**"Yes. That money never goes out. It just keeps going round and round - always inside."**
 
 That was it.
 
 Now, Ramesh didn’t just understand cash delay.
 
 He understood **cash depth.**
+
+{{<raw>}}
+<style>
+	p strong {
+		font-weight:500 !important;
+	}
+</style>
+{{</raw>}}
