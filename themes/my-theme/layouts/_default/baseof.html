@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="hi">
+<html lang="en">
 
 <head>
 	<meta charset="UTF-8" />
@@ -7,19 +7,12 @@
 	<link rel="shortcut icon"
 		href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAAAdUlEQVR4Ae3MIRJAUBCH8e81R3AO53AmvIQmu5MzqE8iKoZAEdZYZhT7/cuGnR9/yeEJrDcW8DjEKlbFasQmFTQitj+cK2TqO8ggg2LceygiZ6YjeQel9Me10NI8ghR7DhlkkEFBxQTEShVUcVHGcAsZ8PylDecfc51kCzSlAAAAAElFTkSuQmCC"
 		type="image/x-icon">
-	<link rel="preload" href="{{ " /fonts/Roboto.ttf" | absURL }}" as="font" type="font/ttf" crossorigin="anonymous">
 
-	<!-- Preload Roboto Mono Font -->
-	<link rel="preload" href="{{ " /fonts/RobotoMono.ttf" | absURL }}" as="font" type="font/ttf"
-		crossorigin="anonymous">
-
-	<!-- Preload Roboto Italic Font -->
-	<link rel="preload" href="{{ " /fonts/Roboto-Italic.ttf" | absURL }}" as="font" type="font/ttf"
-		crossorigin="anonymous">
-
-	<!-- Preload Roboto Mono Italic Font -->
-	<link rel="preload" href="{{ " /fonts/RobotoMono-Italic.ttf" | absURL }}" as="font" type="font/ttf"
-		crossorigin="anonymous">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+		rel="stylesheet">
 
 	<!-- Bootstrap CSS -->
 	{{ $scss := resources.Get "scss/main.scss" | toCSS | minify }}
