@@ -5,7 +5,7 @@ lastmod: 2019-08-25T22:00:00+05:30
 tags:
   - programming
 categories:
-  - programming
+  - interview
 url: /analysis-of-algorithms-short-note.html
 ---
 
